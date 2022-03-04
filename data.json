@@ -2,31 +2,31 @@
     {
         "title": "TWITTY",
         "subtitle": "First Cat",
-        "image_url": "https://cdn.pixabay.com/photo/2013/04/01/03/45/cat-98359_960_720.jpg",
+        "image_url": "https://raw.githubusercontent.com/rungroch6636/ep_x_BasicAPI/main/Twitty.jpg",
         "detail":""
     },
     {
         "title": "Garfield",
         "subtitle": "Third Cat",
-        "image_url": "https://cdn.pixabay.com/photo/2016/07/10/21/47/cat-1508613_960_720.jpg",
+        "image_url": "https://raw.githubusercontent.com/rungroch6636/ep_x_BasicAPI/main/Gafild.jpg",
         "detail":""
     },
     {
         "title": "Minnie",
         "subtitle": "Four Cat",
-        "image_url": "https://cdn.pixabay.com/photo/2020/06/20/11/08/siamese-cat-5320568_960_720.jpg",
+        "image_url": "https://raw.githubusercontent.com/rungroch6636/ep_x_BasicAPI/main/Minnie.jpg",
         "detail":""
     },
     {
         "title": "Candy",
         "subtitle": "Five Cat",
-        "image_url": "https://cdn.pixabay.com/photo/2020/08/16/06/24/the-kitten-looks-in-the-mirror-5491982_960_720.jpg",
+        "image_url": "https://raw.githubusercontent.com/rungroch6636/ep_x_BasicAPI/main/Candy.jpg",
         "detail":""
     },
     {
         "title": "Whisky",
         "subtitle": "Six Cat",
-        "image_url": "https://cdn.pixabay.com/photo/2020/08/16/06/24/the-kitten-looks-in-the-mirror-5491982_960_720.jpg",
+        "image_url": "https://raw.githubusercontent.com/rungroch6636/ep_x_BasicAPI/main/whisky.jpg",
         "detail":""
     }
 ]
